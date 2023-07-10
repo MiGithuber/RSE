@@ -14,7 +14,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-        name="Diamond_price_prediction",
+        name="RSE_Project",
         version='0.0.1',
         author="Mihir N.Shanbhag",
         install_requires=get_requirements(),
